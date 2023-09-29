@@ -1,0 +1,14 @@
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\bin\Debug\net7.0\Veeam-QA-Data-Management-Test.exe
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\bin\Debug\net7.0\Veeam-QA-Data-Management-Test.deps.json
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\bin\Debug\net7.0\Veeam-QA-Data-Management-Test.runtimeconfig.json
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\bin\Debug\net7.0\Veeam-QA-Data-Management-Test.dll
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\bin\Debug\net7.0\Veeam-QA-Data-Management-Test.pdb
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\Veeam-QA-Data-Management-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\Veeam-QA-Data-Management-Test.AssemblyInfoInputs.cache
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\Veeam-QA-Data-Management-Test.AssemblyInfo.cs
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\Veeam-QA-Data-Management-Test.csproj.CoreCompileInputs.cache
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\Veeam-QA-Data-Management-Test.dll
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\refint\Veeam-QA-Data-Management-Test.dll
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\Veeam-QA-Data-Management-Test.pdb
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\Veeam-QA-Data-Management-Test.genruntimeconfig.cache
+C:\Users\omegaleo\RiderProjects\Veeam-QA-Data-Management-Test\Veeam-QA-Data-Management-Test\obj\Debug\net7.0\ref\Veeam-QA-Data-Management-Test.dll
